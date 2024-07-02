@@ -1,0 +1,28 @@
+.form-card {
+    background-color: aliceblue;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+.card {
+    background-color: rgb(167, 164, 161);
+    border-radius: 6px;
+    border-width: 2px;
+    padding: 15px;
+    margin: 10px;
+    width: 70%; /* Adjust width as needed */
+    max-width: 500px; /* Example max-width */
+}
+
+
+.input{
+    width: 90px;
+    height: 20px;
+    padding:5px;
+    margin: 5px;
+    border-width: 5px;
+    
+}
